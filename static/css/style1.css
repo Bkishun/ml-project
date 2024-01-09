@@ -1,0 +1,14 @@
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% of the viewport height */
+    background-color: #000; /* Black background color */
+    color: #fff; /* White text color */
+}
+
+.centered-heading {
+    text-align: center;
+}
